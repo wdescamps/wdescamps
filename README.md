@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning Neuroscience, AI and Music. And having fun where they overlap
+- 📫 How to reach me: My Linkedin link is in my bio 
+
+![](https://komarev.com/ghpvc/?username=wdescamps)
 
 <!--
 **wdescamps/wdescamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
