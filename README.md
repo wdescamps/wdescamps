@@ -1,10 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on multiple side-projects & on my portfolio https://www.descamps.space
 - 🌱 I’m currently learning Neuroscience, AI and Music. And having fun where they overlap
-- 📫 How to reach me: Linkedin link is in my bio 
+- 📫 How to reach me: Linkedin link is in my bio
+  
 Have a nice day !
 
-
+14 day rolling views counter : 
 ![](https://komarev.com/ghpvc/?username=wdescamps)
 
 <!--
