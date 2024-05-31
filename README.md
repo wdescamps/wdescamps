@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 In an IT Engineer, currently Freelancing as a Data Scientist, and a Lead Teacher at LeWagon for both Data Science & Data Analytics tracks.
-- 🌱 I’m currently learning Neuroscience, AI and Music. And having fun where they overlap
+- 🌱 With 7 years of experience in multiple data related roles, i'll always be learning stuff. Currently, i'm having fun where AI, Neuroscience and Music overlap.
 - 📫 How to reach me: Please contact me through LinkedIn
-- 🌅 Let's work together : [hire me](https://www.malt.fr/profile/willdes)
+- 🌅 [Let's work together](https://www.malt.fr/profile/willdes)
   
 Have a nice day !
 
