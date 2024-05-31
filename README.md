@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on multiple side-projects & on my portfolio https://www.descamps.space
+- 🔭 In an IT Engineer, currently Freelancing as a Data Scientist, and a Lead Teacher at LeWagon for both Data Science & Data Analytics tracks.
 - 🌱 I’m currently learning Neuroscience, AI and Music. And having fun where they overlap
-- 📫 How to reach me: Linkedin link is in my bio,
+- 📫 How to reach me: Please contact me through LinkedIn
 - 🌅 Let's work together : [hire me](https://www.malt.fr/profile/willdes)
   
 Have a nice day !
